@@ -1,5 +1,5 @@
 # async-queue
-Queuing asynchronous operations in ES6, per [this blog post of mine](https://www.fourzerofour.pw/posts/asynchronous-queues/).
+Queuing asynchronous operations in ES8, per [this blog post of mine](https://www.fourzerofour.pw/posts/asynchronous-queues/).
 
 Fundamentally, we want to perform a number of arbitrary asynchronous functions in series.
 
